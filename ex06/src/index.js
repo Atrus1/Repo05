@@ -9,4 +9,4 @@ myString += "one string to the end of another string.";
 }
 
 console.log(main());
-module.exports$ = main;
+module.exports = main;

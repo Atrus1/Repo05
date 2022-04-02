@@ -9,4 +9,4 @@ var thirdToLastLetterOfLastName = lastName[lastName.length - 3];
 }
 
 console.log(main());
-module.exports$ = main;
+module.exports = main;

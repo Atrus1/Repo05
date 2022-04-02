@@ -8,4 +8,4 @@ var myString = "This is the first string." + "This is the second string.";
 }
 
 console.log(main());
-module.exports = main;
+module.exports$ = main;

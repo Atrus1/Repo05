@@ -9,4 +9,4 @@ var lastLetterOfLastName = lastName[lastName.length - 1];
 }
 
 console.log(main());
-module.exports = main;
+module.exports$ = main;

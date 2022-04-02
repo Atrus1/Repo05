@@ -10,4 +10,4 @@ firstLetterOfLastName = lastName[0];
 }
 
 console.log(main());
-module.exports = main;
+module.exports$ = main;

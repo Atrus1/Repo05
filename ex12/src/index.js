@@ -9,4 +9,4 @@ var thirdLetterOfLastName = lastName[2];
 }
 
 console.log(main());
-module.exports = main;
+module.exports$ = main;

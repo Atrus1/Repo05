@@ -10,4 +10,4 @@ var myLink = '<a href="http://www.example.com" target="_blank">Link</a>';
 }
 
 console.log(main());
-module.exports = main;
+module.exports$ = main;

@@ -11,4 +11,4 @@ var mySecondString = "No, you only \"think\", so you aren't.";
 }
 
 console.log(main());
-module.exports = main;
+module.exports$ = main;
